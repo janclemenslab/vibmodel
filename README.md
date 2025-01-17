@@ -12,4 +12,5 @@ Install anaconda/miniconda/[miniforge](https://github.com/conda-forge/miniforge?
 conda create numba numpy matplotlib ipykernel jupyterlab tqdm scipy flammkuchen -c conda-forge -n vib_model -y
 ```
 ## Demo
-The notebook `demo.ipynb` will run the model on example inputs and generate plots. Expected results are show in [demo.pdf]().
+The notebook `demo.ipynb` will run the model on example inputs and generate plots. Expected results are show in [demo.pdf](demo.pdf).
+
